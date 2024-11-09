@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\bin\Debug\net8.0\Atividade_matrizes.exe
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\bin\Debug\net8.0\Atividade_matrizes.deps.json
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\bin\Debug\net8.0\Atividade_matrizes.runtimeconfig.json
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\bin\Debug\net8.0\Atividade_matrizes.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\bin\Debug\net8.0\Atividade_matrizes.pdb
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.AssemblyInfo.cs
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\refint\Atividade_matrizes.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.pdb
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.genruntimeconfig.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\ref\Atividade_matrizes.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Lista de Exercícios 2 – Matrizes\Atividade_matrizes\Atividade_matrizes\obj\Debug\net8.0\Atividade_matrizes.sourcelink.json
